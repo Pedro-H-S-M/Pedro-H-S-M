@@ -1,4 +1,4 @@
-- 🇧🇷 Hi, I’m @Pedro-H-S-M
+- 🇧🇷 Hi, I’m @Pedro
 - 🛰️ I’m interested in 3D printing, embedded systems, aerospace engineer and maker culture in general.
 
 <!---
