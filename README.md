@@ -1,5 +1,5 @@
 - 🇧🇷 Hi, I’m @Pedro-H-S-M
-- 🛰️ I’m interested in 3D printing, embedded systems, aerospace engineer, maker culture.
+- 🛰️ I’m interested in 3D printing, embedded systems, aerospace engineer and maker culture in general.
 
 <!---
 Pedro-H-S-M/Pedro-H-S-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
